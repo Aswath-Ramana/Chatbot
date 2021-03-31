@@ -22,6 +22,5 @@ Natural Language Processing with Python provides a practical introduction to pro
 
 After NLTK has been downloaded, install required packages
 
-### How to run
-#### Through Terminal
+### How to run through Terminal
 -python main.py
