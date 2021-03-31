@@ -4,7 +4,7 @@
 The idea of this project was not to create some SOTA chatbot with exceptional cognitive skills but just to utilise.This was one of my very few projects, 
 created when I just stepped into the world of NLP and I thought of creating a simple chatbot just to make use of my newly acquired knowledge.
 
-![Alt Text][Image.gif]
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## Pre-requisites
 
