@@ -18,10 +18,10 @@ Natural Language Processing with Python provides a practical introduction to pro
 
 ### Installation of NLTK
 
-pip install nltk
+-pip install nltk
 
 After NLTK has been downloaded, install required packages
 
 ### How to run
 #### Through Terminal
-python main.py
+-python main.py
