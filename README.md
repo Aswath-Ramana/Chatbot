@@ -15,14 +15,12 @@ created when I just stepped into the world of NLP and I thought of creating a si
 
 Natural Language Processing with Python provides a practical introduction to programming for language processing.
 
-If you want  chatbot for any particular domain,you can load the desired webpage in the input file.
+##### If you want  chatbot for any particular domain,you can load the desired webpage in the input file.
 
 
-### Installation of NLTK
-
--pip install nltk
 
 After NLTK has been downloaded, install required packages
 
 ### How to run through Terminal
+-pip install -r requirements.txt
 -python main.py
